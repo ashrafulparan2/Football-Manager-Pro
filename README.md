@@ -1,7 +1,7 @@
 
-![Awesome ReadME](https://github.com/pottekkat/awesome-readme/raw/master/header.png)
-
 # Football Manager Pro
+
+<img src=messi3.jpg>
 
 [![GitHub release (latest by date including pre-releases)](https://img.shields.io/github/v/release/navendu-pottekkat/awesome-readme?include_prereleases)](https://img.shields.io/github/v/release/navendu-pottekkat/awesome-readme?include_prereleases)
 [![GitHub last commit](https://img.shields.io/github/last-commit/navendu-pottekkat/awesome-readme)](https://img.shields.io/github/last-commit/navendu-pottekkat/awesome-readme)
@@ -28,13 +28,9 @@
 
 # Quick Start Demo
 
-![Demo Preview](https://picsum.photos/1920/1080)
+<img src=logo.png>
 
-I believe that you should bring value to the reader as soon as possible. You should be able to get the user up and running with your project with minimal friction.
 
-If you have a quickstart guide, this is where it should be.
-
-Alternatively, you can add a demo to show what your project can do.
 
 # Table of Contents
 
@@ -52,11 +48,7 @@ This is a table of contents for your project. It helps the reader navigate throu
 # Installation
 [(Back to top)](#table-of-contents)
 
-> **Note**: For longer README files, I usually add a "Back to top" buttton as shown above. It makes it easy to navigate.
 
-This is where your installation instructions go.
-
-You can add snippets here that your readers can copy-paste with click:
 
 ```shell
 gh repo clone navendu-pottekkat/awesome-readme
